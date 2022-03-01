@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myProfile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="My Profile">
+
+    </item>
+
+    <item
+        android:id="@+id/weightGoals"
+        android:icon="@drawable/ic_baseline_accessibility_new_24"
+        android:title="Weight Tracker">
+
+    </item>
+    <item
+        android:id="@+id/meals"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:title="Meals">
+
+    </item>
+    <item
+        android:id="@+id/barGraph"
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        android:title="Bar Graph">
+
+    </item>
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings">
+
+    </item>
+
+
+</menu>
